@@ -1,0 +1,19 @@
+{
+	"items": [{
+			"0": "Food Menu Flyer Template",
+			"1": "Graphic Design",
+			"2": "images/project-img1.jpg, images/project-img1@2x.jpg 2x",
+			"itemStructure": "<div class=\"grid-item big\"><div class=\"bg-stretch\"> <span data-srcset=\"$2\"></span> </div> <div class=\"text-holder\"> <h3>$0</h3> <p>$1</p> </div> <div class=\"icons\"> <a href=\"#\" class=\"watch\"></a> <a href=\"#\" class=\"like\"></a> </div> </div>"
+		}, {
+			"0": "Food Menu Flyer Template",
+			"1": "Graphic Design",
+			"2": "images/project-img2.jpg, images/project-img2@2x.jpg 2x",
+			"itemStructure": "<div class=\"grid-item\"><div class=\"bg-stretch\"> <span data-srcset=\"$2\"></span> </div> <div class=\"text-holder\"> <h3>$0</h3> <p>$1</p> </div> <div class=\"icons\"> <a href=\"#\" class=\"watch\"></a> <a href=\"#\" class=\"like\"></a> </div> </div>"
+		}, {
+			"0": "Food Menu Flyer Template",
+			"1": "Graphic Design",
+			"2": "images/project-img3.jpg, images/project-img3@2x.jpg 2x",
+			"itemStructure": "<div class=\"grid-item\"><div class=\"bg-stretch\"> <span data-srcset=\"$2\"></span> </div> <div class=\"text-holder\"> <h3>$0</h3> <p>$1</p> </div> <div class=\"icons\"> <a href=\"#\" class=\"watch\"></a> <a href=\"#\" class=\"like\"></a> </div> </div>"
+	}],
+	"nextItemsLink": "<a href=\"inc/02.json\" class=\"btn load-more\">See All</a>"
+}
